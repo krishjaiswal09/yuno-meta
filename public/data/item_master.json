@@ -1,0 +1,1602 @@
+[
+  {
+    "Item ID": "ITEM-0001",
+    "Item Name": "Product 1",
+    "Category": "Raw Materials",
+    "Unit Price": 491.88,
+    "ABC Class": "A",
+    "MSL": 152
+  },
+  {
+    "Item ID": "ITEM-0002",
+    "Item Name": "Product 2",
+    "Category": "Maintenance",
+    "Unit Price": 205.42,
+    "ABC Class": "C",
+    "MSL": 215
+  },
+  {
+    "Item ID": "ITEM-0003",
+    "Item Name": "Product 3",
+    "Category": "Packaging",
+    "Unit Price": 410.05,
+    "ABC Class": "C",
+    "MSL": 241
+  },
+  {
+    "Item ID": "ITEM-0004",
+    "Item Name": "Product 4",
+    "Category": "Maintenance",
+    "Unit Price": 401.19,
+    "ABC Class": "C",
+    "MSL": 275
+  },
+  {
+    "Item ID": "ITEM-0005",
+    "Item Name": "Product 5",
+    "Category": "Maintenance",
+    "Unit Price": 83.85,
+    "ABC Class": "C",
+    "MSL": 87
+  },
+  {
+    "Item ID": "ITEM-0006",
+    "Item Name": "Product 6",
+    "Category": "Chemicals",
+    "Unit Price": 259.02,
+    "ABC Class": "C",
+    "MSL": 99
+  },
+  {
+    "Item ID": "ITEM-0007",
+    "Item Name": "Product 7",
+    "Category": "Packaging",
+    "Unit Price": 350.95,
+    "ABC Class": "B",
+    "MSL": 147
+  },
+  {
+    "Item ID": "ITEM-0008",
+    "Item Name": "Product 8",
+    "Category": "Packaging",
+    "Unit Price": 430.6,
+    "ABC Class": "B",
+    "MSL": 131
+  },
+  {
+    "Item ID": "ITEM-0009",
+    "Item Name": "Product 9",
+    "Category": "Packaging",
+    "Unit Price": 169.72,
+    "ABC Class": "B",
+    "MSL": 79
+  },
+  {
+    "Item ID": "ITEM-0010",
+    "Item Name": "Product 10",
+    "Category": "Maintenance",
+    "Unit Price": 117.92,
+    "ABC Class": "B",
+    "MSL": 128
+  },
+  {
+    "Item ID": "ITEM-0011",
+    "Item Name": "Product 11",
+    "Category": "Raw Materials",
+    "Unit Price": 358.46,
+    "ABC Class": "A",
+    "MSL": 140
+  },
+  {
+    "Item ID": "ITEM-0012",
+    "Item Name": "Product 12",
+    "Category": "Packaging",
+    "Unit Price": 406.66,
+    "ABC Class": "C",
+    "MSL": 228
+  },
+  {
+    "Item ID": "ITEM-0013",
+    "Item Name": "Product 13",
+    "Category": "Maintenance",
+    "Unit Price": 180.85,
+    "ABC Class": "B",
+    "MSL": 240
+  },
+  {
+    "Item ID": "ITEM-0014",
+    "Item Name": "Product 14",
+    "Category": "Chemicals",
+    "Unit Price": 57.13,
+    "ABC Class": "C",
+    "MSL": 275
+  },
+  {
+    "Item ID": "ITEM-0015",
+    "Item Name": "Product 15",
+    "Category": "Raw Materials",
+    "Unit Price": 470.86,
+    "ABC Class": "B",
+    "MSL": 101
+  },
+  {
+    "Item ID": "ITEM-0016",
+    "Item Name": "Product 16",
+    "Category": "Chemicals",
+    "Unit Price": 204.81,
+    "ABC Class": "C",
+    "MSL": 298
+  },
+  {
+    "Item ID": "ITEM-0017",
+    "Item Name": "Product 17",
+    "Category": "Raw Materials",
+    "Unit Price": 263.7,
+    "ABC Class": "B",
+    "MSL": 215
+  },
+  {
+    "Item ID": "ITEM-0018",
+    "Item Name": "Product 18",
+    "Category": "Maintenance",
+    "Unit Price": 420.48,
+    "ABC Class": "B",
+    "MSL": 274
+  },
+  {
+    "Item ID": "ITEM-0019",
+    "Item Name": "Product 19",
+    "Category": "Electronics",
+    "Unit Price": 341.09,
+    "ABC Class": "B",
+    "MSL": 265
+  },
+  {
+    "Item ID": "ITEM-0020",
+    "Item Name": "Product 20",
+    "Category": "Raw Materials",
+    "Unit Price": 370.26,
+    "ABC Class": "C",
+    "MSL": 128
+  },
+  {
+    "Item ID": "ITEM-0021",
+    "Item Name": "Product 21",
+    "Category": "Chemicals",
+    "Unit Price": 112.45,
+    "ABC Class": "B",
+    "MSL": 79
+  },
+  {
+    "Item ID": "ITEM-0022",
+    "Item Name": "Product 22",
+    "Category": "Maintenance",
+    "Unit Price": 275.31,
+    "ABC Class": "C",
+    "MSL": 296
+  },
+  {
+    "Item ID": "ITEM-0023",
+    "Item Name": "Product 23",
+    "Category": "Raw Materials",
+    "Unit Price": 350.93,
+    "ABC Class": "A",
+    "MSL": 155
+  },
+  {
+    "Item ID": "ITEM-0024",
+    "Item Name": "Product 24",
+    "Category": "Electronics",
+    "Unit Price": 121.99,
+    "ABC Class": "B",
+    "MSL": 100
+  },
+  {
+    "Item ID": "ITEM-0025",
+    "Item Name": "Product 25",
+    "Category": "Electronics",
+    "Unit Price": 95.73,
+    "ABC Class": "C",
+    "MSL": 130
+  },
+  {
+    "Item ID": "ITEM-0026",
+    "Item Name": "Product 26",
+    "Category": "Packaging",
+    "Unit Price": 491.26,
+    "ABC Class": "C",
+    "MSL": 182
+  },
+  {
+    "Item ID": "ITEM-0027",
+    "Item Name": "Product 27",
+    "Category": "Packaging",
+    "Unit Price": 263.15,
+    "ABC Class": "B",
+    "MSL": 78
+  },
+  {
+    "Item ID": "ITEM-0028",
+    "Item Name": "Product 28",
+    "Category": "Chemicals",
+    "Unit Price": 137.81,
+    "ABC Class": "C",
+    "MSL": 181
+  },
+  {
+    "Item ID": "ITEM-0029",
+    "Item Name": "Product 29",
+    "Category": "Raw Materials",
+    "Unit Price": 498.16,
+    "ABC Class": "C",
+    "MSL": 187
+  },
+  {
+    "Item ID": "ITEM-0030",
+    "Item Name": "Product 30",
+    "Category": "Raw Materials",
+    "Unit Price": 483.06,
+    "ABC Class": "C",
+    "MSL": 233
+  },
+  {
+    "Item ID": "ITEM-0031",
+    "Item Name": "Product 31",
+    "Category": "Packaging",
+    "Unit Price": 283.56,
+    "ABC Class": "A",
+    "MSL": 194
+  },
+  {
+    "Item ID": "ITEM-0032",
+    "Item Name": "Product 32",
+    "Category": "Raw Materials",
+    "Unit Price": 442.49,
+    "ABC Class": "B",
+    "MSL": 123
+  },
+  {
+    "Item ID": "ITEM-0033",
+    "Item Name": "Product 33",
+    "Category": "Raw Materials",
+    "Unit Price": 102.47,
+    "ABC Class": "C",
+    "MSL": 66
+  },
+  {
+    "Item ID": "ITEM-0034",
+    "Item Name": "Product 34",
+    "Category": "Electronics",
+    "Unit Price": 146.65,
+    "ABC Class": "C",
+    "MSL": 133
+  },
+  {
+    "Item ID": "ITEM-0035",
+    "Item Name": "Product 35",
+    "Category": "Packaging",
+    "Unit Price": 353.18,
+    "ABC Class": "C",
+    "MSL": 265
+  },
+  {
+    "Item ID": "ITEM-0036",
+    "Item Name": "Product 36",
+    "Category": "Maintenance",
+    "Unit Price": 424.86,
+    "ABC Class": "B",
+    "MSL": 118
+  },
+  {
+    "Item ID": "ITEM-0037",
+    "Item Name": "Product 37",
+    "Category": "Packaging",
+    "Unit Price": 429.6,
+    "ABC Class": "C",
+    "MSL": 83
+  },
+  {
+    "Item ID": "ITEM-0038",
+    "Item Name": "Product 38",
+    "Category": "Maintenance",
+    "Unit Price": 208.21,
+    "ABC Class": "C",
+    "MSL": 55
+  },
+  {
+    "Item ID": "ITEM-0039",
+    "Item Name": "Product 39",
+    "Category": "Electronics",
+    "Unit Price": 445.01,
+    "ABC Class": "B",
+    "MSL": 102
+  },
+  {
+    "Item ID": "ITEM-0040",
+    "Item Name": "Product 40",
+    "Category": "Chemicals",
+    "Unit Price": 426.95,
+    "ABC Class": "B",
+    "MSL": 243
+  },
+  {
+    "Item ID": "ITEM-0041",
+    "Item Name": "Product 41",
+    "Category": "Raw Materials",
+    "Unit Price": 468.46,
+    "ABC Class": "C",
+    "MSL": 254
+  },
+  {
+    "Item ID": "ITEM-0042",
+    "Item Name": "Product 42",
+    "Category": "Electronics",
+    "Unit Price": 394.82,
+    "ABC Class": "B",
+    "MSL": 175
+  },
+  {
+    "Item ID": "ITEM-0043",
+    "Item Name": "Product 43",
+    "Category": "Raw Materials",
+    "Unit Price": 337.8,
+    "ABC Class": "B",
+    "MSL": 284
+  },
+  {
+    "Item ID": "ITEM-0044",
+    "Item Name": "Product 44",
+    "Category": "Chemicals",
+    "Unit Price": 294.54,
+    "ABC Class": "B",
+    "MSL": 92
+  },
+  {
+    "Item ID": "ITEM-0045",
+    "Item Name": "Product 45",
+    "Category": "Chemicals",
+    "Unit Price": 192.42,
+    "ABC Class": "A",
+    "MSL": 289
+  },
+  {
+    "Item ID": "ITEM-0046",
+    "Item Name": "Product 46",
+    "Category": "Electronics",
+    "Unit Price": 470.67,
+    "ABC Class": "A",
+    "MSL": 252
+  },
+  {
+    "Item ID": "ITEM-0047",
+    "Item Name": "Product 47",
+    "Category": "Chemicals",
+    "Unit Price": 487.1,
+    "ABC Class": "C",
+    "MSL": 164
+  },
+  {
+    "Item ID": "ITEM-0048",
+    "Item Name": "Product 48",
+    "Category": "Maintenance",
+    "Unit Price": 149.12,
+    "ABC Class": "C",
+    "MSL": 160
+  },
+  {
+    "Item ID": "ITEM-0049",
+    "Item Name": "Product 49",
+    "Category": "Chemicals",
+    "Unit Price": 159.63,
+    "ABC Class": "B",
+    "MSL": 298
+  },
+  {
+    "Item ID": "ITEM-0050",
+    "Item Name": "Product 50",
+    "Category": "Raw Materials",
+    "Unit Price": 247.95,
+    "ABC Class": "C",
+    "MSL": 200
+  },
+  {
+    "Item ID": "ITEM-0051",
+    "Item Name": "Product 51",
+    "Category": "Raw Materials",
+    "Unit Price": 229.73,
+    "ABC Class": "C",
+    "MSL": 232
+  },
+  {
+    "Item ID": "ITEM-0052",
+    "Item Name": "Product 52",
+    "Category": "Raw Materials",
+    "Unit Price": 497.28,
+    "ABC Class": "B",
+    "MSL": 129
+  },
+  {
+    "Item ID": "ITEM-0053",
+    "Item Name": "Product 53",
+    "Category": "Raw Materials",
+    "Unit Price": 96.2,
+    "ABC Class": "B",
+    "MSL": 144
+  },
+  {
+    "Item ID": "ITEM-0054",
+    "Item Name": "Product 54",
+    "Category": "Maintenance",
+    "Unit Price": 18.86,
+    "ABC Class": "A",
+    "MSL": 252
+  },
+  {
+    "Item ID": "ITEM-0055",
+    "Item Name": "Product 55",
+    "Category": "Packaging",
+    "Unit Price": 252.01,
+    "ABC Class": "A",
+    "MSL": 167
+  },
+  {
+    "Item ID": "ITEM-0056",
+    "Item Name": "Product 56",
+    "Category": "Electronics",
+    "Unit Price": 97.62,
+    "ABC Class": "C",
+    "MSL": 193
+  },
+  {
+    "Item ID": "ITEM-0057",
+    "Item Name": "Product 57",
+    "Category": "Raw Materials",
+    "Unit Price": 189.57,
+    "ABC Class": "C",
+    "MSL": 57
+  },
+  {
+    "Item ID": "ITEM-0058",
+    "Item Name": "Product 58",
+    "Category": "Chemicals",
+    "Unit Price": 374.64,
+    "ABC Class": "B",
+    "MSL": 181
+  },
+  {
+    "Item ID": "ITEM-0059",
+    "Item Name": "Product 59",
+    "Category": "Raw Materials",
+    "Unit Price": 363.26,
+    "ABC Class": "C",
+    "MSL": 153
+  },
+  {
+    "Item ID": "ITEM-0060",
+    "Item Name": "Product 60",
+    "Category": "Chemicals",
+    "Unit Price": 160.95,
+    "ABC Class": "C",
+    "MSL": 181
+  },
+  {
+    "Item ID": "ITEM-0061",
+    "Item Name": "Product 61",
+    "Category": "Chemicals",
+    "Unit Price": 275.84,
+    "ABC Class": "A",
+    "MSL": 233
+  },
+  {
+    "Item ID": "ITEM-0062",
+    "Item Name": "Product 62",
+    "Category": "Raw Materials",
+    "Unit Price": 259.32,
+    "ABC Class": "C",
+    "MSL": 74
+  },
+  {
+    "Item ID": "ITEM-0063",
+    "Item Name": "Product 63",
+    "Category": "Maintenance",
+    "Unit Price": 321.8,
+    "ABC Class": "C",
+    "MSL": 244
+  },
+  {
+    "Item ID": "ITEM-0064",
+    "Item Name": "Product 64",
+    "Category": "Chemicals",
+    "Unit Price": 132.73,
+    "ABC Class": "C",
+    "MSL": 145
+  },
+  {
+    "Item ID": "ITEM-0065",
+    "Item Name": "Product 65",
+    "Category": "Chemicals",
+    "Unit Price": 299.04,
+    "ABC Class": "A",
+    "MSL": 244
+  },
+  {
+    "Item ID": "ITEM-0066",
+    "Item Name": "Product 66",
+    "Category": "Raw Materials",
+    "Unit Price": 489.66,
+    "ABC Class": "C",
+    "MSL": 204
+  },
+  {
+    "Item ID": "ITEM-0067",
+    "Item Name": "Product 67",
+    "Category": "Chemicals",
+    "Unit Price": 248.5,
+    "ABC Class": "C",
+    "MSL": 142
+  },
+  {
+    "Item ID": "ITEM-0068",
+    "Item Name": "Product 68",
+    "Category": "Chemicals",
+    "Unit Price": 453.99,
+    "ABC Class": "C",
+    "MSL": 209
+  },
+  {
+    "Item ID": "ITEM-0069",
+    "Item Name": "Product 69",
+    "Category": "Raw Materials",
+    "Unit Price": 222.85,
+    "ABC Class": "C",
+    "MSL": 227
+  },
+  {
+    "Item ID": "ITEM-0070",
+    "Item Name": "Product 70",
+    "Category": "Raw Materials",
+    "Unit Price": 181.54,
+    "ABC Class": "C",
+    "MSL": 110
+  },
+  {
+    "Item ID": "ITEM-0071",
+    "Item Name": "Product 71",
+    "Category": "Electronics",
+    "Unit Price": 326.1,
+    "ABC Class": "C",
+    "MSL": 171
+  },
+  {
+    "Item ID": "ITEM-0072",
+    "Item Name": "Product 72",
+    "Category": "Maintenance",
+    "Unit Price": 337.77,
+    "ABC Class": "C",
+    "MSL": 100
+  },
+  {
+    "Item ID": "ITEM-0073",
+    "Item Name": "Product 73",
+    "Category": "Maintenance",
+    "Unit Price": 433.44,
+    "ABC Class": "C",
+    "MSL": 196
+  },
+  {
+    "Item ID": "ITEM-0074",
+    "Item Name": "Product 74",
+    "Category": "Chemicals",
+    "Unit Price": 122.79,
+    "ABC Class": "B",
+    "MSL": 70
+  },
+  {
+    "Item ID": "ITEM-0075",
+    "Item Name": "Product 75",
+    "Category": "Maintenance",
+    "Unit Price": 254.6,
+    "ABC Class": "B",
+    "MSL": 54
+  },
+  {
+    "Item ID": "ITEM-0076",
+    "Item Name": "Product 76",
+    "Category": "Chemicals",
+    "Unit Price": 290.28,
+    "ABC Class": "B",
+    "MSL": 259
+  },
+  {
+    "Item ID": "ITEM-0077",
+    "Item Name": "Product 77",
+    "Category": "Electronics",
+    "Unit Price": 386.59,
+    "ABC Class": "C",
+    "MSL": 141
+  },
+  {
+    "Item ID": "ITEM-0078",
+    "Item Name": "Product 78",
+    "Category": "Raw Materials",
+    "Unit Price": 31.37,
+    "ABC Class": "A",
+    "MSL": 219
+  },
+  {
+    "Item ID": "ITEM-0079",
+    "Item Name": "Product 79",
+    "Category": "Raw Materials",
+    "Unit Price": 497.33,
+    "ABC Class": "C",
+    "MSL": 110
+  },
+  {
+    "Item ID": "ITEM-0080",
+    "Item Name": "Product 80",
+    "Category": "Raw Materials",
+    "Unit Price": 240.27,
+    "ABC Class": "B",
+    "MSL": 71
+  },
+  {
+    "Item ID": "ITEM-0081",
+    "Item Name": "Product 81",
+    "Category": "Maintenance",
+    "Unit Price": 146.98,
+    "ABC Class": "C",
+    "MSL": 198
+  },
+  {
+    "Item ID": "ITEM-0082",
+    "Item Name": "Product 82",
+    "Category": "Electronics",
+    "Unit Price": 442.91,
+    "ABC Class": "C",
+    "MSL": 119
+  },
+  {
+    "Item ID": "ITEM-0083",
+    "Item Name": "Product 83",
+    "Category": "Maintenance",
+    "Unit Price": 376.38,
+    "ABC Class": "C",
+    "MSL": 50
+  },
+  {
+    "Item ID": "ITEM-0084",
+    "Item Name": "Product 84",
+    "Category": "Maintenance",
+    "Unit Price": 477.01,
+    "ABC Class": "B",
+    "MSL": 182
+  },
+  {
+    "Item ID": "ITEM-0085",
+    "Item Name": "Product 85",
+    "Category": "Electronics",
+    "Unit Price": 172.07,
+    "ABC Class": "C",
+    "MSL": 282
+  },
+  {
+    "Item ID": "ITEM-0086",
+    "Item Name": "Product 86",
+    "Category": "Electronics",
+    "Unit Price": 280.85,
+    "ABC Class": "C",
+    "MSL": 61
+  },
+  {
+    "Item ID": "ITEM-0087",
+    "Item Name": "Product 87",
+    "Category": "Electronics",
+    "Unit Price": 290.42,
+    "ABC Class": "B",
+    "MSL": 139
+  },
+  {
+    "Item ID": "ITEM-0088",
+    "Item Name": "Product 88",
+    "Category": "Electronics",
+    "Unit Price": 490.36,
+    "ABC Class": "C",
+    "MSL": 95
+  },
+  {
+    "Item ID": "ITEM-0089",
+    "Item Name": "Product 89",
+    "Category": "Raw Materials",
+    "Unit Price": 46.92,
+    "ABC Class": "B",
+    "MSL": 83
+  },
+  {
+    "Item ID": "ITEM-0090",
+    "Item Name": "Product 90",
+    "Category": "Packaging",
+    "Unit Price": 159.79,
+    "ABC Class": "B",
+    "MSL": 226
+  },
+  {
+    "Item ID": "ITEM-0091",
+    "Item Name": "Product 91",
+    "Category": "Packaging",
+    "Unit Price": 103.55,
+    "ABC Class": "C",
+    "MSL": 127
+  },
+  {
+    "Item ID": "ITEM-0092",
+    "Item Name": "Product 92",
+    "Category": "Electronics",
+    "Unit Price": 141.55,
+    "ABC Class": "B",
+    "MSL": 267
+  },
+  {
+    "Item ID": "ITEM-0093",
+    "Item Name": "Product 93",
+    "Category": "Packaging",
+    "Unit Price": 247.79,
+    "ABC Class": "B",
+    "MSL": 94
+  },
+  {
+    "Item ID": "ITEM-0094",
+    "Item Name": "Product 94",
+    "Category": "Packaging",
+    "Unit Price": 192.62,
+    "ABC Class": "B",
+    "MSL": 204
+  },
+  {
+    "Item ID": "ITEM-0095",
+    "Item Name": "Product 95",
+    "Category": "Electronics",
+    "Unit Price": 203.4,
+    "ABC Class": "B",
+    "MSL": 122
+  },
+  {
+    "Item ID": "ITEM-0096",
+    "Item Name": "Product 96",
+    "Category": "Packaging",
+    "Unit Price": 423.66,
+    "ABC Class": "B",
+    "MSL": 75
+  },
+  {
+    "Item ID": "ITEM-0097",
+    "Item Name": "Product 97",
+    "Category": "Maintenance",
+    "Unit Price": 465.71,
+    "ABC Class": "C",
+    "MSL": 298
+  },
+  {
+    "Item ID": "ITEM-0098",
+    "Item Name": "Product 98",
+    "Category": "Chemicals",
+    "Unit Price": 44.5,
+    "ABC Class": "C",
+    "MSL": 96
+  },
+  {
+    "Item ID": "ITEM-0099",
+    "Item Name": "Product 99",
+    "Category": "Chemicals",
+    "Unit Price": 112.37,
+    "ABC Class": "C",
+    "MSL": 170
+  },
+  {
+    "Item ID": "ITEM-0100",
+    "Item Name": "Product 100",
+    "Category": "Electronics",
+    "Unit Price": 338.86,
+    "ABC Class": "C",
+    "MSL": 263
+  },
+  {
+    "Item ID": "ITEM-0101",
+    "Item Name": "Product 101",
+    "Category": "Raw Materials",
+    "Unit Price": 185.74,
+    "ABC Class": "C",
+    "MSL": 288
+  },
+  {
+    "Item ID": "ITEM-0102",
+    "Item Name": "Product 102",
+    "Category": "Electronics",
+    "Unit Price": 134.54,
+    "ABC Class": "C",
+    "MSL": 105
+  },
+  {
+    "Item ID": "ITEM-0103",
+    "Item Name": "Product 103",
+    "Category": "Raw Materials",
+    "Unit Price": 154.69,
+    "ABC Class": "B",
+    "MSL": 143
+  },
+  {
+    "Item ID": "ITEM-0104",
+    "Item Name": "Product 104",
+    "Category": "Chemicals",
+    "Unit Price": 168.05,
+    "ABC Class": "B",
+    "MSL": 156
+  },
+  {
+    "Item ID": "ITEM-0105",
+    "Item Name": "Product 105",
+    "Category": "Electronics",
+    "Unit Price": 425.85,
+    "ABC Class": "B",
+    "MSL": 112
+  },
+  {
+    "Item ID": "ITEM-0106",
+    "Item Name": "Product 106",
+    "Category": "Maintenance",
+    "Unit Price": 76.94,
+    "ABC Class": "A",
+    "MSL": 97
+  },
+  {
+    "Item ID": "ITEM-0107",
+    "Item Name": "Product 107",
+    "Category": "Packaging",
+    "Unit Price": 357.37,
+    "ABC Class": "C",
+    "MSL": 110
+  },
+  {
+    "Item ID": "ITEM-0108",
+    "Item Name": "Product 108",
+    "Category": "Raw Materials",
+    "Unit Price": 280.88,
+    "ABC Class": "B",
+    "MSL": 130
+  },
+  {
+    "Item ID": "ITEM-0109",
+    "Item Name": "Product 109",
+    "Category": "Packaging",
+    "Unit Price": 155.29,
+    "ABC Class": "C",
+    "MSL": 75
+  },
+  {
+    "Item ID": "ITEM-0110",
+    "Item Name": "Product 110",
+    "Category": "Packaging",
+    "Unit Price": 215.69,
+    "ABC Class": "C",
+    "MSL": 85
+  },
+  {
+    "Item ID": "ITEM-0111",
+    "Item Name": "Product 111",
+    "Category": "Electronics",
+    "Unit Price": 135.54,
+    "ABC Class": "C",
+    "MSL": 50
+  },
+  {
+    "Item ID": "ITEM-0112",
+    "Item Name": "Product 112",
+    "Category": "Packaging",
+    "Unit Price": 309.64,
+    "ABC Class": "B",
+    "MSL": 57
+  },
+  {
+    "Item ID": "ITEM-0113",
+    "Item Name": "Product 113",
+    "Category": "Maintenance",
+    "Unit Price": 49.98,
+    "ABC Class": "A",
+    "MSL": 162
+  },
+  {
+    "Item ID": "ITEM-0114",
+    "Item Name": "Product 114",
+    "Category": "Packaging",
+    "Unit Price": 12.54,
+    "ABC Class": "C",
+    "MSL": 148
+  },
+  {
+    "Item ID": "ITEM-0115",
+    "Item Name": "Product 115",
+    "Category": "Electronics",
+    "Unit Price": 317.67,
+    "ABC Class": "C",
+    "MSL": 229
+  },
+  {
+    "Item ID": "ITEM-0116",
+    "Item Name": "Product 116",
+    "Category": "Maintenance",
+    "Unit Price": 105.19,
+    "ABC Class": "B",
+    "MSL": 256
+  },
+  {
+    "Item ID": "ITEM-0117",
+    "Item Name": "Product 117",
+    "Category": "Chemicals",
+    "Unit Price": 44.76,
+    "ABC Class": "C",
+    "MSL": 96
+  },
+  {
+    "Item ID": "ITEM-0118",
+    "Item Name": "Product 118",
+    "Category": "Packaging",
+    "Unit Price": 204.42,
+    "ABC Class": "A",
+    "MSL": 176
+  },
+  {
+    "Item ID": "ITEM-0119",
+    "Item Name": "Product 119",
+    "Category": "Electronics",
+    "Unit Price": 34.88,
+    "ABC Class": "B",
+    "MSL": 105
+  },
+  {
+    "Item ID": "ITEM-0120",
+    "Item Name": "Product 120",
+    "Category": "Chemicals",
+    "Unit Price": 444.44,
+    "ABC Class": "B",
+    "MSL": 263
+  },
+  {
+    "Item ID": "ITEM-0121",
+    "Item Name": "Product 121",
+    "Category": "Chemicals",
+    "Unit Price": 23.53,
+    "ABC Class": "B",
+    "MSL": 63
+  },
+  {
+    "Item ID": "ITEM-0122",
+    "Item Name": "Product 122",
+    "Category": "Raw Materials",
+    "Unit Price": 293.64,
+    "ABC Class": "C",
+    "MSL": 267
+  },
+  {
+    "Item ID": "ITEM-0123",
+    "Item Name": "Product 123",
+    "Category": "Maintenance",
+    "Unit Price": 224.85,
+    "ABC Class": "C",
+    "MSL": 77
+  },
+  {
+    "Item ID": "ITEM-0124",
+    "Item Name": "Product 124",
+    "Category": "Packaging",
+    "Unit Price": 339.29,
+    "ABC Class": "B",
+    "MSL": 264
+  },
+  {
+    "Item ID": "ITEM-0125",
+    "Item Name": "Product 125",
+    "Category": "Electronics",
+    "Unit Price": 170.79,
+    "ABC Class": "C",
+    "MSL": 127
+  },
+  {
+    "Item ID": "ITEM-0126",
+    "Item Name": "Product 126",
+    "Category": "Raw Materials",
+    "Unit Price": 85.97,
+    "ABC Class": "C",
+    "MSL": 265
+  },
+  {
+    "Item ID": "ITEM-0127",
+    "Item Name": "Product 127",
+    "Category": "Maintenance",
+    "Unit Price": 491.1,
+    "ABC Class": "C",
+    "MSL": 179
+  },
+  {
+    "Item ID": "ITEM-0128",
+    "Item Name": "Product 128",
+    "Category": "Raw Materials",
+    "Unit Price": 421.08,
+    "ABC Class": "A",
+    "MSL": 158
+  },
+  {
+    "Item ID": "ITEM-0129",
+    "Item Name": "Product 129",
+    "Category": "Maintenance",
+    "Unit Price": 431.6,
+    "ABC Class": "B",
+    "MSL": 203
+  },
+  {
+    "Item ID": "ITEM-0130",
+    "Item Name": "Product 130",
+    "Category": "Maintenance",
+    "Unit Price": 132.62,
+    "ABC Class": "A",
+    "MSL": 63
+  },
+  {
+    "Item ID": "ITEM-0131",
+    "Item Name": "Product 131",
+    "Category": "Packaging",
+    "Unit Price": 29.03,
+    "ABC Class": "B",
+    "MSL": 236
+  },
+  {
+    "Item ID": "ITEM-0132",
+    "Item Name": "Product 132",
+    "Category": "Maintenance",
+    "Unit Price": 158.6,
+    "ABC Class": "B",
+    "MSL": 105
+  },
+  {
+    "Item ID": "ITEM-0133",
+    "Item Name": "Product 133",
+    "Category": "Raw Materials",
+    "Unit Price": 273.17,
+    "ABC Class": "C",
+    "MSL": 164
+  },
+  {
+    "Item ID": "ITEM-0134",
+    "Item Name": "Product 134",
+    "Category": "Maintenance",
+    "Unit Price": 170.06,
+    "ABC Class": "B",
+    "MSL": 56
+  },
+  {
+    "Item ID": "ITEM-0135",
+    "Item Name": "Product 135",
+    "Category": "Packaging",
+    "Unit Price": 415.66,
+    "ABC Class": "B",
+    "MSL": 52
+  },
+  {
+    "Item ID": "ITEM-0136",
+    "Item Name": "Product 136",
+    "Category": "Packaging",
+    "Unit Price": 143.06,
+    "ABC Class": "B",
+    "MSL": 160
+  },
+  {
+    "Item ID": "ITEM-0137",
+    "Item Name": "Product 137",
+    "Category": "Raw Materials",
+    "Unit Price": 482.97,
+    "ABC Class": "B",
+    "MSL": 200
+  },
+  {
+    "Item ID": "ITEM-0138",
+    "Item Name": "Product 138",
+    "Category": "Chemicals",
+    "Unit Price": 234.06,
+    "ABC Class": "B",
+    "MSL": 287
+  },
+  {
+    "Item ID": "ITEM-0139",
+    "Item Name": "Product 139",
+    "Category": "Chemicals",
+    "Unit Price": 422.59,
+    "ABC Class": "B",
+    "MSL": 156
+  },
+  {
+    "Item ID": "ITEM-0140",
+    "Item Name": "Product 140",
+    "Category": "Maintenance",
+    "Unit Price": 105.25,
+    "ABC Class": "A",
+    "MSL": 288
+  },
+  {
+    "Item ID": "ITEM-0141",
+    "Item Name": "Product 141",
+    "Category": "Electronics",
+    "Unit Price": 211.56,
+    "ABC Class": "B",
+    "MSL": 286
+  },
+  {
+    "Item ID": "ITEM-0142",
+    "Item Name": "Product 142",
+    "Category": "Maintenance",
+    "Unit Price": 352.76,
+    "ABC Class": "B",
+    "MSL": 67
+  },
+  {
+    "Item ID": "ITEM-0143",
+    "Item Name": "Product 143",
+    "Category": "Raw Materials",
+    "Unit Price": 77.79,
+    "ABC Class": "C",
+    "MSL": 299
+  },
+  {
+    "Item ID": "ITEM-0144",
+    "Item Name": "Product 144",
+    "Category": "Raw Materials",
+    "Unit Price": 75.05,
+    "ABC Class": "B",
+    "MSL": 87
+  },
+  {
+    "Item ID": "ITEM-0145",
+    "Item Name": "Product 145",
+    "Category": "Raw Materials",
+    "Unit Price": 485.07,
+    "ABC Class": "A",
+    "MSL": 276
+  },
+  {
+    "Item ID": "ITEM-0146",
+    "Item Name": "Product 146",
+    "Category": "Raw Materials",
+    "Unit Price": 360.15,
+    "ABC Class": "A",
+    "MSL": 164
+  },
+  {
+    "Item ID": "ITEM-0147",
+    "Item Name": "Product 147",
+    "Category": "Raw Materials",
+    "Unit Price": 30.12,
+    "ABC Class": "C",
+    "MSL": 64
+  },
+  {
+    "Item ID": "ITEM-0148",
+    "Item Name": "Product 148",
+    "Category": "Packaging",
+    "Unit Price": 205.42,
+    "ABC Class": "B",
+    "MSL": 241
+  },
+  {
+    "Item ID": "ITEM-0149",
+    "Item Name": "Product 149",
+    "Category": "Chemicals",
+    "Unit Price": 222.43,
+    "ABC Class": "C",
+    "MSL": 266
+  },
+  {
+    "Item ID": "ITEM-0150",
+    "Item Name": "Product 150",
+    "Category": "Raw Materials",
+    "Unit Price": 374.58,
+    "ABC Class": "C",
+    "MSL": 168
+  },
+  {
+    "Item ID": "ITEM-0151",
+    "Item Name": "Product 151",
+    "Category": "Electronics",
+    "Unit Price": 132.92,
+    "ABC Class": "A",
+    "MSL": 278
+  },
+  {
+    "Item ID": "ITEM-0152",
+    "Item Name": "Product 152",
+    "Category": "Electronics",
+    "Unit Price": 100.32,
+    "ABC Class": "C",
+    "MSL": 77
+  },
+  {
+    "Item ID": "ITEM-0153",
+    "Item Name": "Product 153",
+    "Category": "Electronics",
+    "Unit Price": 49.63,
+    "ABC Class": "C",
+    "MSL": 251
+  },
+  {
+    "Item ID": "ITEM-0154",
+    "Item Name": "Product 154",
+    "Category": "Electronics",
+    "Unit Price": 219.87,
+    "ABC Class": "B",
+    "MSL": 88
+  },
+  {
+    "Item ID": "ITEM-0155",
+    "Item Name": "Product 155",
+    "Category": "Packaging",
+    "Unit Price": 347.36,
+    "ABC Class": "B",
+    "MSL": 234
+  },
+  {
+    "Item ID": "ITEM-0156",
+    "Item Name": "Product 156",
+    "Category": "Electronics",
+    "Unit Price": 38.51,
+    "ABC Class": "C",
+    "MSL": 66
+  },
+  {
+    "Item ID": "ITEM-0157",
+    "Item Name": "Product 157",
+    "Category": "Raw Materials",
+    "Unit Price": 458.45,
+    "ABC Class": "B",
+    "MSL": 280
+  },
+  {
+    "Item ID": "ITEM-0158",
+    "Item Name": "Product 158",
+    "Category": "Maintenance",
+    "Unit Price": 226.75,
+    "ABC Class": "C",
+    "MSL": 135
+  },
+  {
+    "Item ID": "ITEM-0159",
+    "Item Name": "Product 159",
+    "Category": "Electronics",
+    "Unit Price": 127.5,
+    "ABC Class": "B",
+    "MSL": 267
+  },
+  {
+    "Item ID": "ITEM-0160",
+    "Item Name": "Product 160",
+    "Category": "Packaging",
+    "Unit Price": 56,
+    "ABC Class": "C",
+    "MSL": 175
+  },
+  {
+    "Item ID": "ITEM-0161",
+    "Item Name": "Product 161",
+    "Category": "Packaging",
+    "Unit Price": 99.6,
+    "ABC Class": "B",
+    "MSL": 93
+  },
+  {
+    "Item ID": "ITEM-0162",
+    "Item Name": "Product 162",
+    "Category": "Electronics",
+    "Unit Price": 467.96,
+    "ABC Class": "C",
+    "MSL": 74
+  },
+  {
+    "Item ID": "ITEM-0163",
+    "Item Name": "Product 163",
+    "Category": "Maintenance",
+    "Unit Price": 322.75,
+    "ABC Class": "C",
+    "MSL": 194
+  },
+  {
+    "Item ID": "ITEM-0164",
+    "Item Name": "Product 164",
+    "Category": "Electronics",
+    "Unit Price": 263.18,
+    "ABC Class": "A",
+    "MSL": 62
+  },
+  {
+    "Item ID": "ITEM-0165",
+    "Item Name": "Product 165",
+    "Category": "Packaging",
+    "Unit Price": 331.98,
+    "ABC Class": "A",
+    "MSL": 261
+  },
+  {
+    "Item ID": "ITEM-0166",
+    "Item Name": "Product 166",
+    "Category": "Chemicals",
+    "Unit Price": 223.48,
+    "ABC Class": "A",
+    "MSL": 74
+  },
+  {
+    "Item ID": "ITEM-0167",
+    "Item Name": "Product 167",
+    "Category": "Raw Materials",
+    "Unit Price": 367.72,
+    "ABC Class": "A",
+    "MSL": 117
+  },
+  {
+    "Item ID": "ITEM-0168",
+    "Item Name": "Product 168",
+    "Category": "Packaging",
+    "Unit Price": 33.38,
+    "ABC Class": "A",
+    "MSL": 187
+  },
+  {
+    "Item ID": "ITEM-0169",
+    "Item Name": "Product 169",
+    "Category": "Electronics",
+    "Unit Price": 287.36,
+    "ABC Class": "C",
+    "MSL": 116
+  },
+  {
+    "Item ID": "ITEM-0170",
+    "Item Name": "Product 170",
+    "Category": "Raw Materials",
+    "Unit Price": 87.74,
+    "ABC Class": "C",
+    "MSL": 282
+  },
+  {
+    "Item ID": "ITEM-0171",
+    "Item Name": "Product 171",
+    "Category": "Electronics",
+    "Unit Price": 68.88,
+    "ABC Class": "C",
+    "MSL": 158
+  },
+  {
+    "Item ID": "ITEM-0172",
+    "Item Name": "Product 172",
+    "Category": "Electronics",
+    "Unit Price": 177.52,
+    "ABC Class": "C",
+    "MSL": 195
+  },
+  {
+    "Item ID": "ITEM-0173",
+    "Item Name": "Product 173",
+    "Category": "Chemicals",
+    "Unit Price": 54.98,
+    "ABC Class": "C",
+    "MSL": 160
+  },
+  {
+    "Item ID": "ITEM-0174",
+    "Item Name": "Product 174",
+    "Category": "Raw Materials",
+    "Unit Price": 56.14,
+    "ABC Class": "C",
+    "MSL": 277
+  },
+  {
+    "Item ID": "ITEM-0175",
+    "Item Name": "Product 175",
+    "Category": "Raw Materials",
+    "Unit Price": 162.59,
+    "ABC Class": "C",
+    "MSL": 160
+  },
+  {
+    "Item ID": "ITEM-0176",
+    "Item Name": "Product 176",
+    "Category": "Chemicals",
+    "Unit Price": 489.96,
+    "ABC Class": "B",
+    "MSL": 263
+  },
+  {
+    "Item ID": "ITEM-0177",
+    "Item Name": "Product 177",
+    "Category": "Packaging",
+    "Unit Price": 95.91,
+    "ABC Class": "B",
+    "MSL": 83
+  },
+  {
+    "Item ID": "ITEM-0178",
+    "Item Name": "Product 178",
+    "Category": "Electronics",
+    "Unit Price": 18.41,
+    "ABC Class": "B",
+    "MSL": 160
+  },
+  {
+    "Item ID": "ITEM-0179",
+    "Item Name": "Product 179",
+    "Category": "Maintenance",
+    "Unit Price": 384.05,
+    "ABC Class": "B",
+    "MSL": 57
+  },
+  {
+    "Item ID": "ITEM-0180",
+    "Item Name": "Product 180",
+    "Category": "Electronics",
+    "Unit Price": 405.39,
+    "ABC Class": "B",
+    "MSL": 217
+  },
+  {
+    "Item ID": "ITEM-0181",
+    "Item Name": "Product 181",
+    "Category": "Electronics",
+    "Unit Price": 179.69,
+    "ABC Class": "B",
+    "MSL": 162
+  },
+  {
+    "Item ID": "ITEM-0182",
+    "Item Name": "Product 182",
+    "Category": "Packaging",
+    "Unit Price": 237.69,
+    "ABC Class": "C",
+    "MSL": 285
+  },
+  {
+    "Item ID": "ITEM-0183",
+    "Item Name": "Product 183",
+    "Category": "Electronics",
+    "Unit Price": 328.39,
+    "ABC Class": "C",
+    "MSL": 132
+  },
+  {
+    "Item ID": "ITEM-0184",
+    "Item Name": "Product 184",
+    "Category": "Chemicals",
+    "Unit Price": 33.55,
+    "ABC Class": "A",
+    "MSL": 91
+  },
+  {
+    "Item ID": "ITEM-0185",
+    "Item Name": "Product 185",
+    "Category": "Chemicals",
+    "Unit Price": 475.08,
+    "ABC Class": "B",
+    "MSL": 218
+  },
+  {
+    "Item ID": "ITEM-0186",
+    "Item Name": "Product 186",
+    "Category": "Raw Materials",
+    "Unit Price": 444.47,
+    "ABC Class": "A",
+    "MSL": 150
+  },
+  {
+    "Item ID": "ITEM-0187",
+    "Item Name": "Product 187",
+    "Category": "Maintenance",
+    "Unit Price": 137.84,
+    "ABC Class": "B",
+    "MSL": 55
+  },
+  {
+    "Item ID": "ITEM-0188",
+    "Item Name": "Product 188",
+    "Category": "Electronics",
+    "Unit Price": 17.5,
+    "ABC Class": "B",
+    "MSL": 229
+  },
+  {
+    "Item ID": "ITEM-0189",
+    "Item Name": "Product 189",
+    "Category": "Electronics",
+    "Unit Price": 467.38,
+    "ABC Class": "C",
+    "MSL": 75
+  },
+  {
+    "Item ID": "ITEM-0190",
+    "Item Name": "Product 190",
+    "Category": "Packaging",
+    "Unit Price": 255.51,
+    "ABC Class": "B",
+    "MSL": 113
+  },
+  {
+    "Item ID": "ITEM-0191",
+    "Item Name": "Product 191",
+    "Category": "Chemicals",
+    "Unit Price": 274.29,
+    "ABC Class": "C",
+    "MSL": 275
+  },
+  {
+    "Item ID": "ITEM-0192",
+    "Item Name": "Product 192",
+    "Category": "Maintenance",
+    "Unit Price": 345.14,
+    "ABC Class": "C",
+    "MSL": 236
+  },
+  {
+    "Item ID": "ITEM-0193",
+    "Item Name": "Product 193",
+    "Category": "Raw Materials",
+    "Unit Price": 311.77,
+    "ABC Class": "A",
+    "MSL": 233
+  },
+  {
+    "Item ID": "ITEM-0194",
+    "Item Name": "Product 194",
+    "Category": "Chemicals",
+    "Unit Price": 472.51,
+    "ABC Class": "C",
+    "MSL": 108
+  },
+  {
+    "Item ID": "ITEM-0195",
+    "Item Name": "Product 195",
+    "Category": "Raw Materials",
+    "Unit Price": 472.68,
+    "ABC Class": "C",
+    "MSL": 158
+  },
+  {
+    "Item ID": "ITEM-0196",
+    "Item Name": "Product 196",
+    "Category": "Packaging",
+    "Unit Price": 434.93,
+    "ABC Class": "B",
+    "MSL": 247
+  },
+  {
+    "Item ID": "ITEM-0197",
+    "Item Name": "Product 197",
+    "Category": "Packaging",
+    "Unit Price": 321.84,
+    "ABC Class": "B",
+    "MSL": 278
+  },
+  {
+    "Item ID": "ITEM-0198",
+    "Item Name": "Product 198",
+    "Category": "Electronics",
+    "Unit Price": 402.47,
+    "ABC Class": "C",
+    "MSL": 170
+  },
+  {
+    "Item ID": "ITEM-0199",
+    "Item Name": "Product 199",
+    "Category": "Maintenance",
+    "Unit Price": 341.81,
+    "ABC Class": "C",
+    "MSL": 82
+  },
+  {
+    "Item ID": "ITEM-0200",
+    "Item Name": "Product 200",
+    "Category": "Raw Materials",
+    "Unit Price": 290.95,
+    "ABC Class": "C",
+    "MSL": 230
+  }
+]
